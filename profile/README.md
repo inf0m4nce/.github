@@ -86,12 +86,8 @@ print(f"{sp['name']}: R$ {sp['pib']:,.2f}")
 | 💰 **[Pricing](https://infomance.com.br/pricing)** | Plans from R$99/month |
 | 📧 **[Support](mailto:suporte@infomance.com.br)** | Response within 24h |
 
----
-
 <div align="center">
 
 **Built with precision in Brazil** 🇧🇷
-
-[infomance.com.br](https://infomance.com.br)
 
 </div>
